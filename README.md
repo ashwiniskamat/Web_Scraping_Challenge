@@ -5,7 +5,7 @@ In this project, a web application was built that scrapes various websites for d
 STEP 1: Scraping
 - completed the initial scraping using Jupyter Notebook, BeautifulSoup, Pandas, and Splinter
 
-NASA Mars News:
+NASA Mars News
 - scraped the NASA Mars News Site (https://mars.nasa.gov/news/) and collected the latest news title and paragraph text. 
 - assigned the text to variables to reference later
 
