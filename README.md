@@ -20,6 +20,7 @@ Mars Hemispheres
 - appended the dictionary with the image url string and the hemisphere title to a list
 
 STEP 2: MongoDB and Flask Application
+
 Used MongoDB with Flask to create an HTML page that displays all the scraped information from the URLs above.
 - converted the Jupyter notebook created in Step 1 into a Python script called "scape_mars.py"
 - used a scrape function that executed the scraping code and formed a Python dictionary
